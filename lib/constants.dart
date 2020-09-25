@@ -12,7 +12,7 @@ const textInputDecoration = InputDecoration(
 );
 
 final kHintTextStyle = TextStyle(
-  color: Colors.white54,
+  color: Color(0xFF527DAA),
   fontFamily: 'OpenSans',
 );
 
@@ -23,7 +23,7 @@ final kLabelStyle = TextStyle(
 );
 
 final kBoxDecorationStyle = BoxDecoration(
-  color: Color(0xFF6CA8F1),
+  color: Colors.white,
   borderRadius: BorderRadius.circular(10.0),
   boxShadow: [
     BoxShadow(

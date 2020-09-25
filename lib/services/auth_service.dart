@@ -26,7 +26,7 @@ class AuthService {
           'email': email,
         });
         Provider.of<UserModel>(context).currentUserId = signedInUser.uid;
-        Navigator.pushNamed(context, HomeScreen.id);
+        Navigator.pop(context);
       }
     } catch (e) {
       print(e);

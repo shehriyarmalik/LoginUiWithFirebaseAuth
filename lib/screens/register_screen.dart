@@ -41,7 +41,7 @@ class _RegisterScreenState extends State<RegisterScreen> {
                 input.trim().isEmpty ? 'Please enter a valid name' : null,
             onSaved: (input) => _name = input,
             style: TextStyle(
-              color: Colors.white,
+              color: Colors.black,
               fontFamily: 'OpenSans',
             ),
             decoration: InputDecoration(
@@ -49,7 +49,7 @@ class _RegisterScreenState extends State<RegisterScreen> {
               contentPadding: EdgeInsets.only(top: 14.0),
               prefixIcon: Icon(
                 Icons.person,
-                color: Colors.white,
+                color: Color(0xFF527DAA),
               ),
               hintText: 'Enter your Name',
               hintStyle: kHintTextStyle,
@@ -79,7 +79,7 @@ class _RegisterScreenState extends State<RegisterScreen> {
             onSaved: (input) => _email = input,
             keyboardType: TextInputType.emailAddress,
             style: TextStyle(
-              color: Colors.white,
+              color: Colors.black,
               fontFamily: 'OpenSans',
             ),
             decoration: InputDecoration(
@@ -87,7 +87,7 @@ class _RegisterScreenState extends State<RegisterScreen> {
               contentPadding: EdgeInsets.only(top: 14.0),
               prefixIcon: Icon(
                 Icons.email,
-                color: Colors.white,
+                color: Color(0xFF527DAA),
               ),
               hintText: 'Enter your Email',
               hintStyle: kHintTextStyle,
@@ -117,7 +117,7 @@ class _RegisterScreenState extends State<RegisterScreen> {
             onSaved: (input) => _password = input,
             obscureText: true,
             style: TextStyle(
-              color: Colors.white,
+              color: Colors.black,
               fontFamily: 'OpenSans',
             ),
             decoration: InputDecoration(
@@ -125,7 +125,7 @@ class _RegisterScreenState extends State<RegisterScreen> {
               contentPadding: EdgeInsets.only(top: 14.0),
               prefixIcon: Icon(
                 Icons.lock,
-                color: Colors.white,
+                color: Color(0xFF527DAA),
               ),
               hintText: 'Enter your Password',
               hintStyle: kHintTextStyle,
@@ -164,7 +164,7 @@ class _RegisterScreenState extends State<RegisterScreen> {
 
   Widget _buildSignInBtn() {
     return GestureDetector(
-      onTap: () => Navigator.pushNamed(context, LoginScreen.id),
+      onTap: () => Navigator.pop(context),
       child: RichText(
         text: TextSpan(
           children: [

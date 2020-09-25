@@ -4,7 +4,7 @@
 
 A beautiful Login/Register UI along with Firebase auth and google sign in.
 
-Uses the latest packages and updated as updates/changes come along especially related to Firebase. Make sure to first set up Firebase on your app. 
+Updated as updates/changes come along especially related to Firebase. Make sure to first set up Firebase on your app. 
 
 Screenshots:
 

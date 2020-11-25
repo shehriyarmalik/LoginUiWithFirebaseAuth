@@ -10,7 +10,7 @@ Updated as updates/changes come along especially related to Firebase. Make sure 
 
 Screenshots:
 
-<img src="https://github.com/shehriyarmalik/LoginUiWithFirebaseAuth/blob/master/screenshots/Home..png?" height="100" width="50">
-<img src="https://github.com/shehriyarmalik/LoginUiWithFirebaseAuth/blob/master/screenshots/Login.png?raw=true" height="100" width="50">
-<img src="https://github.com/shehriyarmalik/LoginUiWithFirebaseAuth/blob/master/screenshots/Register.png?raw=true" height="100" width="50">
+<img src="https://github.com/shehriyarmalik/LoginUiWithFirebaseAuth/blob/master/screenshots/Home..png?" height="200" width="200">
+<img src="https://github.com/shehriyarmalik/LoginUiWithFirebaseAuth/blob/master/screenshots/Login.png?raw=true" height="200" width="200">
+<img src="https://github.com/shehriyarmalik/LoginUiWithFirebaseAuth/blob/master/screenshots/Register.png?raw=true" height="200" width="200">
 

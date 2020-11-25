@@ -11,7 +11,7 @@ Updated as updates/changes come along especially related to Firebase. Make sure 
 Screenshots:
 
 
-![Alt text](https://github.com/shehriyarmalik/LoginUiWithFirebaseAuth/blob/master/screenshots/Home..png?&s=200 "Home")
+![Alt text](https://github.com/shehriyarmalik/LoginUiWithFirebaseAuth/blob/master/screenshots/Home..png?&s=100 "Home")
 ![Alt text](https://github.com/shehriyarmalik/LoginUiWithFirebaseAuth/blob/master/screenshots/Login.png?raw=true "Login")
 ![Alt text](https://github.com/shehriyarmalik/LoginUiWithFirebaseAuth/blob/master/screenshots/Register.png?raw=true "Register")
 

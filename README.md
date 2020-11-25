@@ -2,7 +2,7 @@
 
 
 
-A beautiful Login/Register UI along with Firestore, Firebase auth and google sign in.
+A Login/Register UI along with Firestore, Firebase auth and google sign in.
 
 Sets up users on firebase with saving their email/credentials on firestore as well. 
 

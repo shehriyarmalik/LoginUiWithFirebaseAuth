@@ -10,6 +10,7 @@ Updated as updates/changes come along especially related to Firebase. Make sure 
 
 Screenshots:
 
+<img src="https://github.com/shehriyarmalik/LoginUiWithFirebaseAuth/blob/master/screenshots/Home..png?" height="24" width="48">
 
 ![Alt text](https://github.com/shehriyarmalik/LoginUiWithFirebaseAuth/blob/master/screenshots/Home..png?&s=100 "Home")
 ![Alt text](https://github.com/shehriyarmalik/LoginUiWithFirebaseAuth/blob/master/screenshots/Login.png?raw=true "Login")
